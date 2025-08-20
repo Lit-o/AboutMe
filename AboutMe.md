@@ -72,10 +72,12 @@
 Примеры:
 
 https://lit-o.github.io/led-solution/ - нескольмо нестандартных решений и продвинутая умная резина
+
 исходник:
 https://github.com/Lit-o/led-solution
 
 https://lit-o.github.io/SBC-build-for-pages/ - Смотреть нужно с десктопа. Обращаю внимание на вторую секцию - сложный ховер на кнопках фильтрации, который сам запрограммировал. Мне аж до сих пор нравится!
+
 исходник:
 https://github.com/Lit-o/SBC-build-for-pages
 
